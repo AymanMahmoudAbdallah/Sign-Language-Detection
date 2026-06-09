@@ -120,7 +120,7 @@ Display Result
 
 ## Author
 
-**Ayman Mahmoud Abdallah**
+**Ayman Mahmoud Mohammed**
 
 Computer Science Student | AI Enthusiast
 
